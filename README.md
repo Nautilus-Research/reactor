@@ -30,13 +30,15 @@ Visit our website at nautilus2k dot com to learn more about our product. Here is
 - Alerts (track the health of ALL your services from day 1)
 - AI & ML driven multi-threading solution to improve performance beyond what is possible with vanilla multi-threading for most workloads.
 
-#5 A solution designed to stay relevant all the way to Unicorn status for your company:
+#5 A solution designed to stay relevant with massive customer growth:
 
 - Multi-environment support baked in (DEV, QA, PROD)
 - Multi-region support baked in (US, AU, EU)
 - Multi-tenant support baked in (SQL Elastic Pool)
 
 #6 A solution which allows you to run production apps on the smallest, cheapest cloud VMs with the lowest vCPUs, memory, Disk I/O, and highest network latencies. Save money until you start getting traction, and then scale up seamlessly without burning copious amounts of cash. 
+
+#7 Pure c# code. No tricks, no funky hard-to-understand code. Easy to understand, implement and maintain. 
 
 This is a solid, stable solution that has been undergoing extensive testing for months. This is designed for startups building products, who want to focus on building their product & not worry about Infrastructure code.
 
