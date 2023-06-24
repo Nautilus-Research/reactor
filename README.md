@@ -1,7 +1,7 @@
 # reactor
 Reactor is the next-generation development Framework as a Service (FaaS) initially implemented in pure C# for the Azure cloud. We enable ANY startup to build a hyper-scalable product with a fraction of the time and effort. We do this by handling complexity under the hood and simplifying your code to be more natural and intuitive than was ever possible with conventional methods. 
 
-Visit our website at nautilus2k dot com to learn more about our product. Here is what we do in a nut shell:
+Visit our website at nautilus2k dot com to learn more about our product. Here is what we do in a nutshell:
 
 #1 With our FaaS, you start with a relational database for important, slow-changing data where you need referential integrity & consistency; and MongoDB for fast-changing big data.
 
@@ -19,18 +19,19 @@ Visit our website at nautilus2k dot com to learn more about our product. Here is
  - Extremely scalable
  - Super performant
 
-#4 We handle everything for you:
+#4 We handle everything for you (databases are automatically generated for you at startup):
 
-- Configuration
+- Configuration (easily define configuration & initial values in code)
 - State
-- Logging
-- Alerts
+- Logging (from on-premises to cloud, a better implementation than you have ever seen before)
+- Alerts (track the health of ALL your services from day 1)
 - AI & ML driven multi-threading solution to improve performance beyond what is possible with vanilla multi-threading for most workloads.
 
 This is a solid, stable solution that has been undergoing extensive testing for months. This is designed for startups building products, who want to focus on building their product & not worry about Infrastructure code.
 
-Shave months of development effort, be productive on day 1!
+Shave months of development effort, and be productive on day 1!
+We want to be accessible to ALL. Licensing terms are very flexible and realistic to handle everything from one-person teams to large enterprises and everything in between. 
 
-Contact us to get a license + some source code + components to start building your product today!
+Contact us to get a license + some source code + components and start building your product today!
 
 sales at nautilus2k dot com
