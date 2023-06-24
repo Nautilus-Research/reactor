@@ -1,4 +1,7 @@
 # reactor
+
+(From the guy who sent the first email to Microsoft with prototype code showing c# generating Javascript code, which eventually became Blazor)
+
 Reactor is the next-generation development Framework as a Service (FaaS) initially implemented in pure C# for the Azure cloud. We enable ANY startup to build a hyper-scalable product with a fraction of the time and effort. We do this by handling complexity under the hood and simplifying your code to be more natural and intuitive than was ever possible with conventional methods. 
 
 Visit our website at nautilus2k dot com to learn more about our product. Here is what we do in a nutshell:
